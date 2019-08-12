@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'fighting'
+}
+
+item {
+  id: 2
+  name: 'detecting...'
+}
+
+item {
+  id: 3
+  name: 'reading'
+}
+
+item {
+  id: 4
+  name: 'in_front_of_screen'
+}
+
